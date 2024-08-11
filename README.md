@@ -13,18 +13,6 @@ When I'm not at my computer, you can find me swapping my slippers for a pair of 
  
   - 🏫 Helping students build software experience and skills with [UBC Launch Pad](https://www.ubclaunchpad.com/)
 
-- Past involvement
-
-  - 🧑🏻‍💻  SaaS Reliability and Support at [IBM](https://www.ibm.com/products/order-management)
-  
-  - ☁️  Cloud Engineering at [SAP](https://www.sap.com/canada/products/technology-platform/cloud-analytics.html)
-  
-  - 🧪  Lab Management System at [BC Cancer](https://mapcore.med.ubc.ca/)
-  
-  - ✈️ Digital Transformation at [Bombardier](https://bombardier.com/en/media/news/bombardier-launches-app-smart-link-plus-connected-aircraft-program)
- 
-  - 🍳 Finding you healthy recipes with your ingredients [Umami](https://apps.apple.com/ca/app/umami/id1610941911)
-
 <!--
 **TangMartin/TangMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
