@@ -3,21 +3,17 @@ Hey! I am a Hong Kong Canadian engineer and problem solver, currently living on 
 
 When I'm not at my computer, you can find me swapping my slippers for a pair of running shoes, either planning this year’s backcountry or travel adventures with my camera.
 
-- Projects
+- Currently working on...
   
-  - 🤖  Building production-ready Data Governance RAG at [Securon](https://www.securon.co/)
+  - 🤖 Building production-ready Data Governance RAG at [Securon](https://www.securon.co/)
     
   - 🌿 Curating intentional communities through events with [Sonder](https://www.hostsonder.com/)
- 
-  - 🍳 Finding you healthy recipes with your ingredients [Umami](https://apps.apple.com/ca/app/umami/id1610941911)
- 
-- Involvement
 
   - 🖥️ Promoting productivity and student life under [Notion](https://www.notion.so/notion/Notion-Campus-Leaders-5817b00cbaa244bca9e0e498804cbab4)
  
   - 🏫 Helping students build software experience and skills with [UBC Launch Pad](https://www.ubclaunchpad.com/)
 
-- Experience
+- Past involvement
 
   - 🧑🏻‍💻  SaaS Reliability and Support at [IBM](https://www.ibm.com/products/order-management)
   
@@ -26,6 +22,8 @@ When I'm not at my computer, you can find me swapping my slippers for a pair of 
   - 🧪  Lab Management System at [BC Cancer](https://mapcore.med.ubc.ca/)
   
   - ✈️ Digital Transformation at [Bombardier](https://bombardier.com/en/media/news/bombardier-launches-app-smart-link-plus-connected-aircraft-program)
+ 
+  - 🍳 Finding you healthy recipes with your ingredients [Umami](https://apps.apple.com/ca/app/umami/id1610941911)
 
 <!--
 **TangMartin/TangMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
