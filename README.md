@@ -1,5 +1,5 @@
 
-Hey! I am a Hong Kong Canadian engineer and problem solver, currently living on the coast of Vancouver. Fuelled by my passion for business and technology, I bring technical products to life through my strategic thinking, technical skills and business acumen.
+Hey! I am a Hong Kong Canadian product engineer, currently living on the coast of Vancouver. Fuelled by my passion for business and technology, I bring technical products to life through my strategic thinking, technical skills and business acumen.
 
 When I'm not at my computer, you can find me swapping my slippers for a pair of running shoes, either planning this year’s backcountry or travel adventures with my camera.
 
