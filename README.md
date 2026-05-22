@@ -3,15 +3,7 @@ Hey! I am a product engineer, currently living on the coast of Vancouver. Fuelle
 
 When I'm not at my computer, you can find me swapping my slippers for a pair of running shoes, either planning this year’s backcountry or travel adventures with my camera.
 
-- Currently working on...
-  
-  - 🤖 Building production-ready Data Governance RAG at [Securon](https://www.securon.co/)
-    
-  - 🌿 Curating intentional communities through events with [Sonder](https://www.hostsonder.com/)
-
-  - 🖥️ Promoting productivity and student life under [Notion](https://www.notion.so/notion/Notion-Campus-Leaders-5817b00cbaa244bca9e0e498804cbab4)
- 
-  - 🏫 Helping students build software experience and skills with [UBC Launch Pad](https://www.ubclaunchpad.com/)
+Check out my website here: https://www.martintang.me/
 
 <!--
 **TangMartin/TangMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
